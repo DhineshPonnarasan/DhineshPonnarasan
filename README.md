@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhineshPonnarasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
