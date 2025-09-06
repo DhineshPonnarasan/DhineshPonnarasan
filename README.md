@@ -1,4 +1,4 @@
-##👋 Hi, I'm Dhinesh Sadhu Subramaniam Ponnarasan  
+👋 Hi, I'm Dhinesh Sadhu Subramaniam Ponnarasan  
 
 🎓 MS in Information Systems (Applied Data Science) @ SUNY Binghamton 
 💻 AI/ML and Applications Development Intern @ Uplifty AI | Ex-Data Analyst Intern| Ex-Machine Learning Engineer | Ex-Software Developer  
