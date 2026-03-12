@@ -1,11 +1,58 @@
-# 👋Hi, I'm Dhinesh Sadhu Subramaniam Ponnarasan
-🎓 MS in Information Systems with Applied Data Science @ SUNY Binghamton University
-<br>💻 AI/ML and Applications Development Intern @ Uplifty AI | Ex-Data Analyst Intern | Ex-Software Developer
-<br>📈 Passionate about building scalable AI systems, predictive analytics, and cloud-native ML solutions.<br><br>🚀 About Me<br>🔭 Currently working on end-to-end AI/ML pipelines with MLOps integration.<br>🌱 Exploring Generative AI, Deep Learning, and Applied Data Science.<br>🎯 Focused on applying AI to real-world, high-impact problems.<br>💡 Love combining Machine Learning, Cloud, and Software Engineering to create production-ready systems.<br><br>## 🏆 Publications<br>- 📄 *Collaboration Search with Knowledge Sharing and Summarization* – IEEE ICSES 2024  <br>- 📄 *Image to Audio Conversion to Aid Visually Impaired People by CNN* – IEEE ICESC 2023  <br><br>---<br>>## 📫 Connect with Me<br>- 💼 [LinkedIn](https://www.linkedin.com/in/dhinesh-s-p)  <br>- 🐙 [GitHub](https://github.com/DhineshPonnarasan)  <br>- 🌐 [Portfolio](https://dhineshponnarasan.com/)  <br>- 📊 [LeetCode](https://leetcode.com/u/Dhinesh_Ponnarasan/)  <br>- 🧑‍🎓 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O5o69CgAAAAJ&sortby=pubdate)  <br>- ✉ dhineshponnarasan@gmail.com   
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=200&section=header&text=Dhinesh%20Ponnarasan&fontSize=40&fontColor=ffffff"/>
+</p>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00B8FF&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhinesh-s-p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhineshponnarasan@gmail.com) 
+<p align="center">
+
+<a href="https://dhineshponnarasan.com/">
+<img src="https://img.shields.io/badge/Portfolio-00B8FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:dhineshponnarasan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DhineshPonnarasan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhinesh-s-p/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O5o69CgAAAAJ&sortby=pubdate">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Dhinesh_Ponnarasan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I'm **Dhinesh Ponnarasan**, a Software Developer and AI/ML Engineer passionate about building intelligent systems, scalable applications, and impactful technology solutions.
+
+I enjoy solving real-world problems using data, machine learning, and software engineering while contributing to research and open-source projects.
+
+- 🔭 Currently building **AI-powered applications and full-stack platforms**
+- 🌱 Learning **advanced system design, scalable architectures, and AI technologies**
+- 👯 Open to collaborate on **AI, machine learning, and open-source projects**
+- 💬 Ask me about **Python, Machine Learning, Data Science, and Full-Stack Development**
+- ⚡ I enjoy **research, automation, and building tools that improve developer productivity**
+
+<br/>
+
+---
 
 # 💻 Tech Stack:
   <h3>👨‍💻 Programming Languages</h3>
@@ -266,5 +313,15 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhineshPonnarasan/DhineshPonnarasan/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DhineshPonnarasan/DhineshPonnarasan/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=120&section=footer"/>
+</p>
+
+<p align="center">
+Built and maintained by <b>Dhinesh Ponnarasan</b>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
