@@ -128,6 +128,8 @@ I enjoy solving real-world problems using data, machine learning, and software e
 
 </details>
 
+---
+
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -222,21 +224,27 @@ I enjoy solving real-world problems using data, machine learning, and software e
 </table>
 </div>
 
+---
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhineshPonnarasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DhineshPonnarasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhineshPonnarasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhineshPonnarasan&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DhineshPonnarasan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img src="https://streak-stats.demolab.com?user=DhineshPonnarasan&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhineshPonnarasan&layout=compact&theme=dark&hide_border=true"/>
+
 </p>
+
+---
 
 ### ✍️ Quote for the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=DhineshPonnarasan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 ## Languages and Tools  
 <div align="center">  
@@ -305,6 +313,8 @@ I enjoy solving real-world problems using data, machine learning, and software e
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
+
+---
 
 ## 🐍 GitHub Contribution Snake
 
