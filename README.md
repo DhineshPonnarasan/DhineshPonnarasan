@@ -230,10 +230,6 @@ I enjoy solving real-world problems using data, machine learning, and software e
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhineshPonnarasan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img src="https://streak-stats.demolab.com?user=DhineshPonnarasan&theme=dark&hide_border=true"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhineshPonnarasan&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
