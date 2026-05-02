@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=200&section=header&text=Dhinesh%20Ponnarasan&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:006400&height=200&section=header&text=Dhinesh%20Ponnarasan&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00B8FF&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
 </h1>
 
 <p align="center">
@@ -281,7 +281,7 @@ I enjoy solving real-world problems using **machine learning, data systems, and 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:006400&height=120&section=footer"/>
 </p>
 
 <p align="center">
