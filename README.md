@@ -36,21 +36,21 @@
 
 ---
 
-# 👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Dhinesh Ponnarasan**, a Software Developer and AI/ML Engineer passionate about building intelligent systems, scalable applications, and impactful technology solutions.
+I'm **Dhinesh Ponnarasan**, a Software Developer and **AI/ML Engineer focused on building production-ready intelligent systems and scalable applications**.
 
-I enjoy solving real-world problems using data, machine learning, and software engineering while contributing to research and open-source projects.
+I enjoy solving real-world problems using **machine learning, data systems, and backend engineering**, and have experience contributing to **open-source and research-driven projects**.
 
 - 🔭 Currently building **AI-powered applications and full-stack platforms**
-- 🌱 Learning **advanced system design, scalable architectures, and AI technologies**
-- 👯 Open to collaborate on **AI, machine learning, and open-source projects**
-- 💬 Ask me about **Python, Machine Learning, Data Science, and Full-Stack Development**
-- ⚡ I enjoy **research, automation, and building tools that improve developer productivity**
-
-<br/>
+- 🧠 Experienced in **ML pipelines, data processing, and model deployment**
+- 🌱 Learning **advanced system design and scalable AI architectures**
+- 🤝 Open to collaborate on **AI, machine learning, and open-source projects**
+- 💬 Ask me about **Python, Machine Learning, Data Science, and Backend Development**
+- ⚡ Interested in scalable systems, AI-driven applications, and high-impact engineering problems
 
 ---
 
