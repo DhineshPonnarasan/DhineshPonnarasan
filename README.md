@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
-</h1>
+</h1> 
  
 <p align="center">
 
