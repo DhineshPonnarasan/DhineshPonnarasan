@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:006400&height=200&section=header&text=Dhinesh%20Ponnarasan&fontSize=40&fontColor=ffffff"/>
-</p>
+</p> 
 
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
