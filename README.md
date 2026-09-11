@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Dhinesh+Ponnarasan;Software+Developer;AI%2FML+Engineer;Applications+Developer;Research+Publisher;Open+Source+Contributor"/>
 </h1>  
  
-<p align="center">
+<p align="center"> 
 
 <a href="https://dhineshponnarasan.com/">
 <img src="https://img.shields.io/badge/Portfolio-00B8FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
