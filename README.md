@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:006400&height=200&section=header&text=Dhinesh%20Ponnarasan&fontSize=40&fontColor=ffffff"/> 
 </p> 
  
